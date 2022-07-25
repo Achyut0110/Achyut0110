@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Achyut0110
 - 👀 I’m interested in coding languages,Machine Learning and Blockchain Technology
-- 🌱 I’m currently learning Maxhine Learning
+- 🌱 I’m currently learning Machine Learning
 - 📫 Reach me at achyutmishra786@gmail.com
 
 <!---
